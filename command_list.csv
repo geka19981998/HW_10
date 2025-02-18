@@ -1,0 +1,103 @@
+    1  man ls
+    2  help ls
+    3  man cd
+    4  ls
+    5  clear
+    6  ді
+    7  ls
+    8  cd pictures
+    9  ls
+   10  cd ..
+   11  cd~
+   12  cd ~
+   13  pwd
+   14  ls
+   15  clear
+   16  cd Documents
+   17  ls
+   18  cd lightshot
+   19  ls
+   20  pwd
+   21  cd ..
+   22  cd ..
+   23  cd Doc
+   24  cd documents
+   25  cd ~
+   26  clear
+   27  ls
+   28  cd Desktop
+   29  mkdir Lessons
+   30  ls
+   31  touch empty.txt
+   32  vin empty.txt
+   33  vim empty.txt
+   34  ls
+   35  nano emty.txt
+   36  cat emty.txt
+   37  nana emty.txt
+   38  nano emty.txt
+   39  cat empty2.txt
+   40  pwd
+   41  pwd
+   42  cp c/Users/Женя/Desktop/empty2.txt c/Users/Женя/Downloads
+   43  cp c\Users\Женя\Desktop\empty2.txt c\Users\Женя\Downloads
+   44  cp c/Users/Женя/Desktop/empty2.txt c/windows/Users/Женя/Downloads
+   45  ls
+   46  cp /Users/Женя/Desktop/empty2.txt /Users/Женя/Downloads
+   47  cp /Users/Женя/Desktop/empty.txt /Users/Женя/Downloads
+   48  pwd
+   49  cp c/Desktop/empty.txt /Users/Женя/Downloads
+   50  mv /Users/Женя/Desktop/empty.txt /Users/Женя/Downloads
+   51  cp C/Users/Женя/Desktop/empty.txt C/Users/Женя/Downloads
+   52  pwd
+   53  rm emty.txt
+   54  cp C:/Users/Ж/empty.txt C:/Users/Женя/Downloads
+   55  cp C:/Users/Женя/Desktop/empty.txt C:/Users/Женя/Downloads
+   56  git config --global user.name "Yevgenii Sobolevskyi"
+   57  git config --global user.email geka199827@gmail.com
+   58  git clone https://github.com/geka19981998/test-repo-1.git
+   59  -c && rm ~/.bash_history
+   60  -c && rm ~/.bash_history
+   61  clear
+   62  -c && rm ~/.bash_history
+   63  -c && rm ~/.bash_history
+   64  git config --global user.name "Yevgenii Sobolevskyi"
+   65  git config --global user.email geka199827@gmail.com
+   66  git clone https://github.com/geka19981998/HW_10.git
+   67  cd HW_10
+   68  touch text_ignore.txt
+   69  nano text_ignore.txt
+   70  nano .gitignore
+   71  git status
+   72  git add text_ignore.txt
+   73  git status
+   74  git add.
+   75  git add .
+   76  git status
+   77  git commit -m "New file created"
+   78  touch main_test.txt
+   79  git add .
+   80  git status
+   81  git commit -m "New file created"
+   82  git status
+   83  git checkout -b develop
+   84  git branch
+   85  git checkout develop
+   86  touch develop_test.txt
+   87  git add .
+   88  git commit -m "New file 3 created"
+   89  nano develop_test.txt
+   90  git status
+   91  git add .
+   92  git commit -m "New file 3 modified"
+   93  git checkout main
+   94  git branch
+   95  git merge develop
+   96  git branch
+   97  git log
+   98  cd HW_10
+   99  cd git
+  100  cd Desktop
+  101  cd Git
+  102  cd HW_10
+  103  history > command_list.csv
